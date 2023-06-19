@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💫 Welcome to my page. <br>🌱 I am a growing developer, precisely a backend dev turned Android dev. <br>✍️ I'm also a technical writer who documents digital products for startups.<br>🔭 I'm currently learning Jetpack Compose; <br> ✍️ And I occasionally (not as frequent as I'd like) write on tech concepts on Hashnode.<br>
+💫 Welcome to my page. <br>🌱 I am a growing developer, precisely a backend dev turned Android dev. <br>🔭 I'm currently learning Jetpack Compose; <br>✍️ I'm also a technical writer who documents digital products for startups. <br> ✍️ And I occasionally write on tech concepts on Hashnode.<br> 
 
 
 ### 📫 How to reach me:
