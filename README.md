@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💫 Welcome to my page. <br>🌱  <br>🔭 I'm currently learning React; <br> ✍️ And I occasionally write on tech concepts on Hashnode and Medium.<br> 
+💫 Welcome to my page.<br>🔭 I'm currently learning React <br> ✍️ And I occasionally write on tech concepts on Hashnode and Medium.<br> 
 
 
 ### 📫 How to reach me:
